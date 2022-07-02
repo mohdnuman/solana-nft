@@ -1,0 +1,32 @@
+{
+  "program": {
+    "uuid": "ooQCcn",
+    "candyMachine": "ooQCcnwZ1MHbDU6moucf3MpKavKGH26ixw1mBDKs2y3",
+    "collection": "5EtjCxEVDgLrrNHG8skHJAdnbmoDv3CpDmJCyjgJkFMd"
+  },
+  "items": {
+    "0": {
+      "link": "https://arweave.net/Yrz2zLyj4VKd6_6M7guwYAaWMXZRcJq2B1qi1WRAwJo",
+      "imageLink": "https://arweave.net/6-vBxuZKviZs7qpULrsuF3Yj18qb2BP8lGkCFaULa7s?ext=png",
+      "name": "numan",
+      "onChain": true,
+      "verifyRun": true
+    },
+    "1": {
+      "link": "https://arweave.net/WsBcopXo6KKZhGEXt_XP1umC7ZZDeP6zb_vsH9vyfDE",
+      "imageLink": "https://arweave.net/8K4nhR7SOpc2YTggN_U8HoHKI5e0XH_hVnDk0QBQTAc?ext=png",
+      "name": "faizan",
+      "onChain": true,
+      "verifyRun": true
+    },
+    "2": {
+      "link": "https://arweave.net/4w5ezB2tO687xhvChjnBj19yVMHKBSqhEgWk7gGC8s0",
+      "imageLink": "https://arweave.net/DgYhcrAZJm9TF2XWtXjrE6sY1nnJ6-DUACaLW8DECoU?ext=png",
+      "name": "kabir",
+      "onChain": true,
+      "verifyRun": true
+    }
+  },
+  "env": "devnet",
+  "cacheName": "temp"
+}

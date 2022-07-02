@@ -1,0 +1,19 @@
+{
+    "name": "numan",
+    "symbol": "NMN",
+    "image": "0.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "0.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": [
+            {
+                "address": "kbF2d9HZhStBVe7UQGjKhFiDQB6DWxZwsuq8U5NZotB",
+                "share": 100
+            }
+        ]
+    }
+}

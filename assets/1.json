@@ -1,0 +1,19 @@
+{
+    "name": "faizan",
+    "symbol": "FZN",
+    "image": "1.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "1.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": [
+            {
+                "address": "kbF2d9HZhStBVe7UQGjKhFiDQB6DWxZwsuq8U5NZotB",
+                "share": 100
+            }
+        ]
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "name": "kabir",
+    "symbol": "KBR",
+    "image": "2.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "2.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": [
+            {
+                "address": "kbF2d9HZhStBVe7UQGjKhFiDQB6DWxZwsuq8U5NZotB",
+                "share": 100
+            }
+        ]
+    }
+}
