@@ -1,5 +1,9 @@
+in ubuntu at home domain- git clone https://github.com/metaplex-foundation/metaplex.git ~/metaplex-foundation/metaplex
+
 ts-node ~/metaplex-foundation/metaplex/js/packages/cli/src/candy-machine-v2-cli.ts --version
 
 ts-node ~/metaplex-foundation/metaplex/js/packages/cli/src/candy-machine-v2-cli.ts upload -e devnet -k ~/.config/solana/devnet.json -cp config.json ./assets
+
+ts-node ~/metaplex-foundation/metaplex/js/packages/cli/src/candy-machine-v2-cli.ts verify_upload -e devnet -k ~/.config/solana/devnet.json
 
 nft address-ooQCcnwZ1MHbDU6moucf3MpKavKGH26ixw1mBDKs2y3
